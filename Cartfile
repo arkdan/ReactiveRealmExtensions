@@ -1,0 +1,2 @@
+github "realm/realm-cocoa" == 2.10.0
+github "ReactiveCocoa/ReactiveSwift" == 2.0.1
